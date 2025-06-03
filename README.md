@@ -1,0 +1,1 @@
+Projeto para praticar o desenvolvimento de um canal omnichannel, utilizando Java 17 com Spring Boot, MySQL, HTML, CSS e JavaScript com Jquery.

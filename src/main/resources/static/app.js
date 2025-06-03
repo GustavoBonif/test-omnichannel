@@ -1,4 +1,4 @@
-const apiUrl = "/messages"; // como está na mesma origem, não precisa do localhost:8080
+const apiUrl = "/messages";
 
 function carregarMensagens() {
     $.get(apiUrl, function (data) {
